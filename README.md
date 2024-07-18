@@ -1,2 +1,1 @@
-# alx_be_shell
-alx_be_shell
+This is for the shell permissions section
